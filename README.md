@@ -26,7 +26,7 @@ This is a demonstration project for learning and experimenting with Spring Boot.
    Develop RESTful endpoints to interact with the application.
 
 8. **Handling Serialization Issues**  
-   Address common serialization problems, such as cyclic dependencies, using tools like `@JsonIgnore` and `@JsonManagedReference`.
+   Address common serialization problems, such as cyclic dependencies, using tools like `@JsonIgnore` and `@JsonIgnoreProperties`.
 
 ## Prerequisites
 
