@@ -34,6 +34,3 @@ This is a demonstration project for learning and experimenting with Spring Boot.
 - Tools: Maven, Postman
 - Database: MySQL, JPA
 - IDE: IntelliJ
-
-Happy coding!
-
